@@ -40,6 +40,3 @@ src="https://img.shields.io/github/followers/durveshwagh11?logo=github&style=for
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durveshwagh11&" alt="durveshwagh11" /></p>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/durveshwagh11/durveshwagh11" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=durveshwagh11&repo=durveshwagh11&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
