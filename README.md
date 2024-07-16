@@ -17,7 +17,10 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 ## 📈 GitHub Stats
 ![durveshwagh11's Stats](https://github-readme-stats.vercel.app/api?username=durveshwagh11&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siinghd&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![durveshwagh11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=durveshwagh11&theme=radical&hide_border=false)
+
+![durveshwagh11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durveshwagh11&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 
 ## 🔗 Links
 
