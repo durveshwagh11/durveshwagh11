@@ -19,9 +19,9 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 ## 🔗 Links
 
-- **Linkedin** [durvesh-wagh]([https://gitlab.com/siinghd](https://www.linkedin.com/in/durvesh-wagh/))
+- **Linkedin** [durvesh-wagh](https://www.linkedin.com/in/durvesh-wagh/)
 - **GitHub:** [durvesh-wagh11](https://github.com/durveshwagh11)
-- **StackOverflow:** [durvesh]([https://stackoverflow.com/users/9386720/singh](https://stackoverflow.com/users/20981342/durvesh-wagh)
+- **StackOverflow:** [durvesh](https://stackoverflow.com/users/20981342/durvesh-wagh)
 - **Leetcode:** [durvesh](https://leetcode.com/u/durveshwagh11/)
 
 
