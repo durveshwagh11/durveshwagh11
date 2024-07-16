@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Durvesh Wagh
 ====================================================================================================================================
 
-Full Stack Web Developer, Java programmer and a tech enthusiast!
+Full Stack Web Developer, Java programmer and a tech enthusiast! ![](https://hit.yhype.me/github/profile?user_id=69915640)
 ------------------------
 
 Results-driven undergraduate with expertise in data structures, algorithms, and front-end web development. Seeking a developer role to apply proven skills in creating efficient, innovative solutions. Committed to excellence and continuous learning within a dynamic team environment.
