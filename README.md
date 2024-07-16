@@ -21,9 +21,9 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 - **Linkedin** [siinghd]([https://gitlab.com/siinghd](https://www.linkedin.com/in/durvesh-wagh/))
 - **GitHub:** [siinghd](https://github.com/durveshwagh11)
-- **StackOverflow:** [singh](https://stackoverflow.com/users/9386720/singh)
+- **StackOverflow:** [durvesh]([https://stackoverflow.com/users/9386720/singh](https://stackoverflow.com/users/20981342/durvesh-wagh))
 - **Leetcode** (https://leetcode.com/u/durveshwagh11/)
-- **FormGo:** [ReactJS Form Library](https://www.npmjs.com/package/formgo)
+
 
 ## 📫 Get in touch
 
