@@ -1,8 +1,7 @@
-hi Hello, I'm Durvesh Wagh! 👋 ![](![](https://hit.yhype.me/github/profile?user_id=69915640))
+## Hey, I'm Durvesh Wagh :wave:
 
-## Hey, I'm Eshan Sharma :wave:
 ![](https://komarev.com/ghpvc/?username=durveshwagh11)
-[![Twitter: Durvesh Wagh]((https://img.shields.io/twitter/follow/DurveshWagh?style=social)](https://twitter.com/DurveshWagh))
+[![Twitter: Durvesh Wagh](https://img.shields.io/twitter/follow/Durvesh-Wagh?style=social)](https://twitter.com/DurveshWagh)
 [![Static Badge](https://img.shields.io/badge/Leetcode-grey?logo=Leetcode&link=https%3A%2F%2Fleetcode.com%2Fdurvesh-wagh%2F)](https://leetcode.com/u/durveshwagh11/)
 [![GitHub durvesh wagh](https://img.shields.io/github/followers/durveshwagh11?label=follow&style=social)](https://github.com/durveshwagh11)
 
