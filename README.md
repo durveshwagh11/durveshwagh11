@@ -22,6 +22,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 ## :trophy: Github Stats
 <p align="center"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=durveshwagh11&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10%22%20width=%2250%%22">
+    [![Durvesh"s GitHub stats](https://github-readme-stats.vercel.app/api?username=durveshwagh11)](https://github.com/durveshwagh11/github-readme-stats)
 </p>
 
 ## 🔗 Links
