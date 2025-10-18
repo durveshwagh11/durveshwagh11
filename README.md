@@ -16,20 +16,17 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 - Furthering my expertise in DevOps practices and tools
 - Exploring new programming paradigms and languages
-- Master Machine Learning
+- Mastering System Design
 - Solve more DSA
-
-## :trophy: Github Stats
-
-[![Durvesh"s GitHub stats](https://github-readme-stats.vercel.app/api?username=durveshwagh11)](https://github.com/durveshwagh11/github-readme-stats)
-    
+  
 
 ## 🔗 Links
 
+- **Portfolio:** [durvesh](https://durvesh-wagh.vercel.app/)
 - **Linkedin** [durvesh-wagh](https://www.linkedin.com/in/durvesh-wagh/)
-- **GitHub:** [durvesh-wagh11](https://github.com/durveshwagh11)
 - **StackOverflow:** [durvesh](https://stackoverflow.com/users/20981342/durvesh-wagh)
 - **Leetcode:** [durvesh](https://leetcode.com/u/durveshwagh11/)
+- **Medium:** [durvesh](https://medium.com/@durveshwagh11)
 
 
 ## 📫 Get in touch
