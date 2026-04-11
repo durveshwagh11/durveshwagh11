@@ -11,15 +11,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 ## 🛠️ Technologies & Tools
 
 - Depends on the project, can adapt quickly
-
-## 🌱 Current Learning Goals
-
-- Furthering my expertise in DevOps practices and tools
-- Exploring new programming paradigms and languages
-- Mastering System Design
-- Solve more DSA
-  
-
+- 
 ## 🔗 Links
 
 - **Portfolio:** [durvesh](https://durvesh-wagh.vercel.app/)
