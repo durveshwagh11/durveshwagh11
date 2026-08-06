@@ -1,7 +1,7 @@
 ## Hey, I'm Durvesh Wagh :wave:
 
 ## :sparkles: About Me
-I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. 
+I'm a Full-Stack Developer. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. 
 
 ## 🛠️ Technologies & Tools
 
