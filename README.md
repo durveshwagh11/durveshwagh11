@@ -11,7 +11,6 @@ I'm a Full-Stack Developer. I always aim for the best code quality and smooth co
 
 - **Portfolio:** [durvesh](https://durvesh-wagh.vercel.app/)
 - **Linkedin** [durvesh-wagh](https://www.linkedin.com/in/durvesh-wagh/)
-- **StackOverflow:** [durvesh](https://stackoverflow.com/users/20981342/durvesh-wagh)
 - **Leetcode:** [durvesh](https://leetcode.com/u/durveshwagh11/)
 - **Medium:** [durvesh](https://medium.com/@durveshwagh11)
 
